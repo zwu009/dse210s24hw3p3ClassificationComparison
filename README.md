@@ -1,0 +1,2 @@
+# dse210s23hw3p3ClassificationComparison
+Comparing Classifiers using Synthetic Data Sets
